@@ -1,7 +1,9 @@
 Learning OpenGL ES 2.0
 ======================
 
-###OpenGL ES Game Development Example
+###Book List
+
+####Lean OpenGL ES: For Mobile Game and Graphics Development
 
 *	
 
